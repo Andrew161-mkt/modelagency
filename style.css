@@ -126,18 +126,15 @@
 #myBtn{
 	background: transparent;
 	border: none;
-	margin-left: 650px;
+	margin-left: 550px;
 	color: white;
 }
 .footer{
 	background-color: #f3909f;
+	padding: 0px 100px;
 }
-.tf p{
-	width: 200px;
-	color: white;
-}
-.tf i{
-	color: white;
+.top{
+	margin: 50px 0px;
 }
 .l1{
 	font-family: Baloo;
@@ -146,10 +143,6 @@
 	text-align: center;
 	margin: 50px 0px;
 	color: white;
-}
-#table2{
-	margin-left: 180px;
-	margin-right: 180px;
 }
 .icon{
 	background: transparent;
@@ -178,4 +171,7 @@
 	color: white;
 	border-radius: 25px;
 	height: 50px;
+}
+.ft{
+	color: white;
 }
